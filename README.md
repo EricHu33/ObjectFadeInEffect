@@ -8,4 +8,4 @@ Inspired by the floor appearing effect in the game [Bastion] .
 Remember to enable gpu instancing if there's a lot of objects on scene.
 
 
-[Bastion]: https://roystan.net/articles/outline-shader.html
+[Bastion]: https://en.wikipedia.org/wiki/Bastion_(video_game)
